@@ -1,6 +1,5 @@
 # المراجع
 
-كما وردت في شرائح الورشة (الترقيم وفق العرض). تحقّق من كل مصدر بحثًا عن تحديثات قبل الاعتماد على أي رقم.
 
 1. Vijetha, J. (n.d.). Innovation [PowerPoint slides]. SlideShare. https://www.slideshare.net/slideshow/innovation-46553709/46553709
 2. United Nations Educational, Scientific and Cultural Organization (UNESCO). (n.d.). Innovation. https://www.unesco.org/en/query-list/i/innovation
